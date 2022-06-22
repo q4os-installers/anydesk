@@ -1,1 +1,1 @@
-deb [ trusted=yes ] http://deb.anydesk.com/ all main
+deb [signed-by=/usr/share/keyrings/q4a-anydesk.gpg trusted=yes] http://deb.anydesk.com/ all main
